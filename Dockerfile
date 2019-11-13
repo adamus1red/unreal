@@ -1,5 +1,5 @@
 FROM debian:stable-slim
-MAINTAINER Jesse B. Crawford <admin@jbcrawford.us>
+MAINTAINER adamus1red
 ENV UNREALIRCD_VERSION 4.2.4.1
 
 RUN apt-get update && \
